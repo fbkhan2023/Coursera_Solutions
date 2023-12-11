@@ -7,6 +7,10 @@ Mobile view should appear only if the width of the browser is equal to or less t
     box-sizing: border-box;
 }
 
+body{
+    background-color: bisque;
+}
+
 /* Heading */
 h1 {
     margin: auto;
